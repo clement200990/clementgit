@@ -1,0 +1,9 @@
+PWD : savoir ou je me situe,
+cd .. : remonter d'un dossier (parent)
+cd : aller à un dossier
+ls : avoir la liste du répertoire
+git init : créer un GIT
+git config : option de configuration
+exemple : git congig user.name "clement"
+          git config mail "..."
+
