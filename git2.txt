@@ -1,3 +1,4 @@
+$
 PWD : savoir ou je me situe,
 cd .. : remonter d'un dossier (parent)
 cd : aller à un dossier
@@ -6,4 +7,15 @@ git init : créer un GIT
 git config : option de configuration
 exemple : git congig user.name "clement"
           git config mail "..."
-
+git add : ajouter un fichier,
+git add . : ajouter tout le dossier courant
+git commit
+---->>>> I : insertion de texte,
+puis escape pour revenir et :wq pour sauvegarder et quitter,
+git log : voir les derniere modif
+git fetch : actualiser,
+git branch : creation de branch
+git checkout : basculer sur la branche
+git chekout -b creer la branche et aller dessus
+merge : se posotionner sur le master, et faire git merge "le nom de la branche"
+--no-ff : no fast forward,en gros il va transferer tout les commit,
